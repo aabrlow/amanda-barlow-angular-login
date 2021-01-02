@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+html,
+body {
+    font-family: 'Lobster', cursive;
+        margin: 0 auto;
+        max-width: 500px;
+        padding-top: 40px;
+    
+}
